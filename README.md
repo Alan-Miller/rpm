@@ -1,0 +1,1 @@
+Promise middleware example
