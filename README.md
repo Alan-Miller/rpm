@@ -3,13 +3,10 @@
 
 List app lets user add and delete list items in a database, using Redux to store the values and react-promise-middleware to handle the promises.
 
-<details>
-<summary>Details</summary>
-
+Details
 * Component fires Redux action with promise on payload. Promise resolves with teacher data from database.
 * Form adds new teachers on Redux using react-promise-middleware to make axios requests.
 * Clicking a teacher in the list deletes the teacher from the database.
-</details>
 
 <details>
 <summary>Special instructions</summary>
